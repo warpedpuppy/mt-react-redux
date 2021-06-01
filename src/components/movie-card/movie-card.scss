@@ -1,0 +1,15 @@
+.movie-card {
+  margin: 15px;
+  max-width: 20rem;
+  border: 2px solid #fff
+}
+
+.movie-card_text {
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis
+}
+
+.btn-blk:hover {
+  background-color:rgba(0, 0, 0, 0.1);
+}

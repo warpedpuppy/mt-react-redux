@@ -1,0 +1,19 @@
+$bgcolor: #09518b;
+$bdtxt: #fff;
+$ltgray: #f1eeee;
+$dkgray: #413f3f;
+
+.cont-mv,
+.main-view,
+.navbar {
+  background-color: $bgcolor
+}
+
+.main-view {
+  min-height: 100%;
+  margin: 0
+}
+
+.navbar {
+  width: 100%
+}
